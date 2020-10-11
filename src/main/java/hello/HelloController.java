@@ -13,7 +13,7 @@ public class HelloController {
         style += "</style>";
 
         // TODO - Personalize this message!
-        String message = "Hello from GitLab";
+        String message = "Hello from GitLab!";
 
         String body = "<body>" + message + "</body>";
 
