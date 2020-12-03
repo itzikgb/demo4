@@ -38,13 +38,13 @@ jobs:
      - name: Trigger GitLab CI Job
   # You may pin to the exact commit or the version.
   # uses: appleboy/gitlab-ci-action@64e3a31d93c8b1242847366dbed93573fd10a591
-       uses: appleboy/gitlab-ci-action@v0.0.2
-       with:
-        token: CrCcp_N_XTZTkCKYGypG
+       - uses: appleboy/gitlab-ci-action@v0.0.2
+         with:
+         token: CrCcp_N_XTZTkCKYGypG
         # gitlab-ci valid refs are only the branches and tags
-        ref: # optional
+         ref: # optional
         # gitlab project id
-        project_id: 21725976
+         project_id: 21725976
         # debug mode
 
 
