@@ -13,5 +13,5 @@ jobs:
       with:
         host: "https://gitlab.com"
         token: 957f5ebce6cf4b2a12d1512804e00f
-        GITLAB_PROJECT_ID: 22925079
+        gitlab_project_id: 22925079
           
