@@ -12,6 +12,6 @@ jobs:
       uses: appleboy/gitlab-ci-action@master
       with:
         url: "http://gitlab.com"
-        token: x98AtUKMMVDW2b8B3wTy
+        token: 957f5ebce6cf4b2a12d1512804e00f
         project_id: 22925079
           
