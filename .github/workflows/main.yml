@@ -43,7 +43,7 @@ jobs:
          token: CrCcp_N_XTZTkCKYGypG
         # gitlab-ci valid refs are only the branches and tags
         # gitlab project id
-         project_id: 21725976
+         project_id: 22925079
         # debug mode
 
 
