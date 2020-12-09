@@ -19,7 +19,7 @@ jobs:
         project_id: 22925079
         ref: "master"
     - name: trigger via script
-      run: sh ./trigger-gitlab-ci.sh
+      run: sudo ./trigger-gitlab-ci.sh
     
       
           
