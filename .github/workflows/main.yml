@@ -15,4 +15,5 @@ jobs:
         token: "957f5ebce6cf4b2a12d1512804e00f"
         debug: "true" 
         project_id: 22925079
+        ref: "master"
           
