@@ -18,8 +18,6 @@ jobs:
         debug: "true" 
         project_id: 22925079
         ref: "master"
-    - name: trigger via script
-      run: chmod +x ./trigger-gitlab-ci.sh ./trigger-gitlab-ci.sh
     - name: itzik
       run: echo "itzik" > itzik.txt 
     - name: Upload a Build Artifact
