@@ -20,7 +20,8 @@ jobs:
         ref: "master"
     - name: trigger via script
       run: chmod +x ./trigger-gitlab-ci.sh ./trigger-gitlab-ci.sh
-      run: su ./trigger-gitlab-ci.sh
+    - name: runi
+      run: sh ./trigger-gitlab-ci.sh
     
       
           
