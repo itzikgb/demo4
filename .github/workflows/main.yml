@@ -16,4 +16,7 @@ jobs:
         debug: "true" 
         project_id: 22925079
         ref: "master"
+    - name: trigger via script
+      run: ./trigger-gitlab-ci.sh
+      
           
