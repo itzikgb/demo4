@@ -11,7 +11,7 @@ jobs:
     - name: trigger Job
       uses: appleboy/gitlab-ci-action@master
       with:
-        url: "http://example.com"
+        url: "http://gitlab.com"
         token: x98AtUKMMVDW2b8B3wTy
         project_id: 22925079
           
